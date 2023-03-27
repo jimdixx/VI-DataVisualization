@@ -1,0 +1,65 @@
+Alessandro Abate
+Jonathan Barrett
+Atılım Güneş Baydin
+Michael Benedikt
+Tim Berners-Lee
+Reuben Binns
+Peter Bloodsworth
+Phil Blunsom
+Michael Bronstein
+Alfonso Bueno-Orovio
+Anisoara Calinescu
+Luca Cardelli
+Alessandra Cavarra
+Ismail Ilkan Ceylan
+Ronald Clark
+Christian Coester
+Sadie Creese
+Bernardo Cuenca Grau
+Jim Davies
+Giuseppe De Giacomo
+Edith Elkind
+Seth Flaxman
+Ivan Flechais
+Yarin Gal
+Andreas Galanis
+Jiarui Gan
+David Gavaghan
+Jeremy Gibbons
+Stefano Gogioso
+Leslie Ann Goldberg
+Paul Goldberg
+Michael Goldsmith
+Georg Gottlob
+Christoph Haase
+Christopher Hargreaves
+Ian Horrocks
+Marina Jirotka
+Geraint Jones
+Varun Kanade
+David Kay
+Andrew D. Ker
+Stefan Kiefer
+Aleks Kissinger
+Bartek Klin
+Elias Koutsoupias
+Marta Kwiatkowska
+Gavin Lowe
+Thomas Lukasiewicz
+Andrew Markham
+Andrew Martin
+Ivan Martinovic
+Tom Melham
+Boris Motik
+Ana Namburete
+Luke Ong
+David Parker
+Alex Rogers
+Bill Roscoe
+Rahul Santhanam
+Nigel Shadbolt
+Sam Staton
+Niki Trigoni
+Shimon Whiteson
+Michael Wooldridge
+Standa Živný
