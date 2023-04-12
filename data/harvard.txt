@@ -1,0 +1,38 @@
+David Alvarez-Melis
+Nada Amin
+Demba Ba
+Boaz Barak
+Sitan Chen
+Yiling Chen
+Finale Doshi-Velez
+Jonathan Frankle
+Krzysztof Z Gajos
+Stephanie Gil
+Yannai A. Gonczarowski
+Barbara J. Grosz
+Vijay Janapa Reddi
+Lucas B Janson
+Sham Kakade
+Petros Koumoutsakos
+Hima Lakkaraju
+Na Li
+Xin Li
+Michael D. Mitzenmacher
+Susan A Murphy
+David Parkes
+Cengiz Pehlevan
+Hanspeter Pfister
+Ariel Procaccia
+Pavlos Protopapas
+Stuart M. Shieber
+Patrick Slade
+Milind Tambe
+Leslie G. Valiant
+Fernanda Viegas
+Martin Wattenberg
+Melanie Weber
+Robert J. Wood
+Heng Yang
+Woodward Yang
+Todd Zickler
+Jonathan Zittrain
