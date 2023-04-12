@@ -4,7 +4,7 @@ import textwrap
 import csv
 import time
 
-MY_API_KEY = "c2c327fd5188ad201d489b9deb5d3941"
+MY_API_KEY = ""
 OXFORD_DATA = "../OXFORD_DATA.csv"
 MIT_DATA = "../MIT_DATA.csv"
 OXFORD_DATA_FULL = "../OXFORD_DATA_FULL.csv"
