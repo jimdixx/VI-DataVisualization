@@ -1,359 +1,359 @@
-doi;autor;pocet_citaci;pocet_autoru;pocet_instituci
-10.1093/JIGPAL/JZI039;madostal;;;
-10.1007/978-3-642-22098-2_26;madostal;;;
-10.1007/978-3-642-22098-2_27;madostal;;;
-10.1007/S00500-012-0875-8;madostal;;;
-10.1007/978-3-642-30504-7_15;madostal;;;
-10.1007/978-3-642-30504-7_37;madostal;;;
-10.1007/3-540-47849-3_23;brada;;;
-10.1145/503209.503250;brada;;;
-10.1109/CMPSAC.2002.1045140;brada;;;
-10.1109/ECBS.2004.1316706;brada;;;
-10.1109/ISORC.2004.1300363;brada;;;
-10.1109/EUROMICRO.2006.50;brada;;;
-10.1007/978-3-540-87891-9_22;brada;;;
-10.1109/SEAA.2008.51;brada;;;
-10.1109/SEAA.2009.80;brada;;;
-10.1109/SEAA.2009.91;brada;;;
-10.1016/J.ENTCS.2010.07.005;brada;;;
-10.1016/J.ENTCS.2011.02.002;brada;;;
-10.1016/J.ENTCS.2011.11.009;brada;;;
-10.1016/J.ENTCS.2011.11.012;brada;;;
-10.1109/ECBS-EERC.2011.41;herout;;;
-10.1007/978-3-642-32341-6_14;brada;;;
-10.1007/978-3-642-25878-7_44;brada;;;
-10.1109/SEAA.2012.48;brada;;;
-10.1109/SEAA.2012.18;herout;;;
-10.1109/IV.2012.17;brada;;;
-10.1109/IV.2012.20;brada;;;
-10.1007/978-3-642-30561-0_9;brada;;;
-10.1109/VLHCC.2012.6344540;brada;;;
-10.1109/VLHCC.2012.6344541;brada;;;
-10.1109/VLHCC.2012.6344547;brada;;;
-10.1109/CSMR.2013.53;brada;;;
-10.1109/CSMR.2013.60;brada;;;
-10.1109/EUROCON.2013.6625023;herout;;;
-10.1109/SEAA.2013.58;brada;;;
-10.1109/ICSM.2013.82;brada;;;
-10.1007/978-3-642-35843-2_36;herout;;;
-10.1109/VLHCC.2013.6645263;brada;;;
-10.1109/CSMR-WCRE.2014.6747226;brada;;;
-10.1016/J.INFSOF.2015.02.014;brada;;;
-10.1016/J.SCICO.2014.06.013;brada;;;
-10.1109/SEAA.2015.32;brada;;;
-10.1007/S10664-015-9389-1;brada;;;
-10.1109/CSEET.2016.33;herout;;;
-10.1109/SEAA.2016.37;brada;;;
-10.1007/978-3-662-49192-8_37;brada;;;
-10.4230/LIPICS.ECOOP.2017.9;brada;;;
-10.15439/2017F139;brada;;;
-10.1109/ICSAW.2017.46;brada;;;
-10.4230/DARTS.3.2.6;brada;;;
-10.1145/3361149.3361178;brada;;;
-10.1145/3361149.3361169;brada;;;
-10.5220/0007579803300337;brada;;;
-10.5220/0007472503960403;brada;;;
-10.1109/SEAA51224.2020.00034;brada;;;
-10.5220/0009164002880293;brada;;;
-10.1016/J.PROCS.2020.03.151;brada;;;
-10.1109/SEAA51224.2020.00024;brada;;;
-10.1145/3384419.3430443;brada;;;
-10.32473/FLAIRS.V34I1.128512;brada;;;
-10.48550/ARXIV.2204.06816;brada;;;
-10.1145/3524844.3528077;brada;;;
-10.48550/ARXIV.2211.03116;brada;;;
-10.1007/978-3-642-54903-8_35;pkral;;;
-10.1109/DDECS.2008.4538772;dudacek;;;
-10.3103/S0146411619030039;dudacek;;;
-10.1109/ICAT47117.2019.8938958;dudacek;;;
-10.1016/S0928-4869(00)00009-4;herout;;;
-10.1007/3-540-36080-8_23;herout;;;
-10.1109/OLT.2002.1030178;herout;;;
-10.1109/UKSIM.2008.53;herout;;;
-10.7148/2009-0151-0157;herout;;;
-10.1007/978-3-642-33191-6_53;herout;;;
-10.1109/ICST46399.2020.00059;herout;;;
-10.1109/ICST49551.2021.00059;herout;;;
-10.1007/11551874_45;moucek;;;
-10.1007/978-3-540-87391-4_11;konopik;;;
-10.1007/978-3-642-04208-9_42;konopik;;;
-10.1007/978-3-642-04208-9_43;konopik;;;
-10.1007/978-3-642-17313-4_37;konopik;;;
-10.1007/978-3-642-15760-8_17;konopik;;;
-10.1109/IDAACS.2011.6072829;konopik;;;
-10.1007/978-3-642-23538-2_26;konopik;;;
-10.1016/J.ESWA.2012.12.070;konopik;;;
-10.1007/978-3-642-40585-3_20;konopik;;;
-10.1016/J.CSL.2013.05.001;konopik;;;
-10.1007/978-3-319-10816-2_33;konopik;;;
-10.1016/J.CSL.2015.01.004;konopik;;;
-10.1016/J.ESWA.2014.12.015;konopik;;;
-10.1016/J.IPM.2014.08.006;konopik;;;
-10.1007/978-3-319-23132-7_30;konopik;;;
-10.1007/978-3-319-24033-6_7;konopik;;;
-10.18653/V1/S16-1124;konopik;;;
-10.26615/978-954-452-049-6_053;konopik;;;
-10.26615/978-954-452-049-6_077;konopik;;;
-10.1007/978-3-030-00794-2_6;konopik;;;
-10.13053/CYS-23-3-3259;konopik;;;
-10.26615/978-954-452-056-4_112;konopik;;;
-10.1007/978-3-030-26061-3_45;konopik;;;
-10.1007/978-3-030-90425-8_5;konopik;;;
-10.1007/978-3-030-83527-9;konopik;;;
-10.1007/978-3-031-16270-1_1;konopik;;;
-10.48550/ARXIV.2203.14093;konopik;;;
-10.48550/ARXIV.2209.07841;konopik;;;
-10.48550/ARXIV.2209.12516;konopik;;;
-10.1007/3-540-48239-3_49;kleckova;;;
-10.1007/978-3-540-39398-6_40;kleckova;;;
-10.1109/ICASSP.2006.1659957;kleckova;;;
-10.1109/ICASSP.2007.367186;kleckova;;;
-10.1109/ICITST.2009.5402562;kleckova;;;
-10.1109/ICONS.2009.41;kleckova;;;
-10.1109/ICONS.2009.37;kleckova;;;
-10.1109/NLPKE.2010.5587805;kleckova;;;
-10.1109/BMEI.2011.6098665;vcelak;;;
-10.1007/978-3-642-28493-9_18;kleckova;;;
-10.1109/BMEI.2012.6513206;vcelak;;;
-10.1109/BMEI.2012.6513038;vcelak;;;
-10.1007/S11548-013-0815-9;kleckova;;;
-10.1109/BMEI.2014.7002892;vcelak;;;
-10.5220/0006155303340339;vcelak;;;
-10.1109/CISP-BMEI.2017.8302291;vcelak;;;
-10.1109/CISP-BMEI.2018.8633266;vcelak;;;
-10.1016/J.IJMEDINF.2019.02.011;vcelak;;;
-10.1007/S003710050088;kolinger;;;
-10.1007/S003710100125;kolinger;;;
-10.1016/S0097-8493(02)00090-0;kolinger;;;
-10.1007/S00371-002-0173-Z;kolinger;;;
-10.1007/3-540-47789-6_13;kolinger;;;
-10.1080/713811749;kolinger;;;
-10.1007/S00371-003-0219-X;kolinger;;;
-10.1145/984952.984966;kolinger;;;
-10.1145/984952.984967;kolinger;;;
-10.1145/984952.984968;kolinger;;;
-10.1016/J.CAG.2004.06.009;kolinger;;;
-10.1109/CGI.2004.1309186;kolinger;;;
-10.1007/978-3-540-25944-2_16;kolinger;;;
-10.1007/978-3-540-25944-2_19;kolinger;;;
-10.1007/978-3-540-24709-8_58;kolinger;;;
-10.1007/978-3-540-24767-8_21;kolinger;;;
-10.1007/978-3-540-24709-8_72;kolinger;;;
-10.1145/1037210.1037221;kolinger;;;
-10.1016/J.PARCO.2005.02.010;kolinger;;;
-10.1016/J.CAGEO.2005.12.004;kolinger;;;
-10.1007/11751540_9;kolinger;;;
-10.1145/2602161.2602173;kolinger;;;
-10.1016/J.CAG.2006.10.003;kolinger;;;
-10.1504/IJCSE.2007.014461;kolinger;;;
-10.1080/2151237X.2007.10129249;kolinger;;;
-10.2312/EGED.20071010;kolinger;;;
-10.1145/2614348.2614381;kolinger;;;
-10.1111/J.1467-8659.2008.01172.X;kolinger;;;
-10.1007/978-3-540-69387-1_10;kolinger;;;
-10.1007/978-3-540-85126-4_11;kolinger;;;
-10.1016/J.ADVENGSOFT.2008.06.001;kolinger;;;
-10.1016/J.CAGEO.2008.12.017;kolinger;;;
-10.1145/1980462.1980490;kolinger;;;
-10.1007/S00371-009-0396-3;kolinger;;;
-10.1007/978-3-642-15907-7_6;kolinger;;;
-10.1007/978-3-642-15907-7_43;kolinger;;;
-10.1109/ISVD.2010.22;kolinger;;;
-10.1016/J.PROCS.2010.04.025;kolinger;;;
-10.1016/J.ADVENGSOFT.2011.04.006;kolinger;;;
-10.1016/J.CAGEO.2010.10.005;skala;;;
-10.1007/978-3-642-21931-3_3;kolinger;;;
-10.1007/978-3-642-21931-3_14;kolinger;;;
-10.1007/978-3-642-33564-8_27;kolinger;;;
-10.1007/978-3-642-33191-6_73;kolinger;;;
-10.1016/J.ADVENGSOFT.2014.05.004;kolinger;;;
-10.1007/978-3-319-03611-3_10;kolinger;;;
-10.5220/0004669701040111;kolinger;;;
-10.1145/2788539.2788550;kolinger;;;
-10.1145/2788539.2788561;kolinger;;;
-10.1016/J.CAG.2016.02.001;kolinger;;;
-10.1111/CGF.12982;kolinger;;;
-10.1016/J.IPL.2015.09.017;kolinger;;;
-10.5220/0005676801490158;kolinger;;;
-10.1007/978-3-319-64870-5_3;kolinger;;;
-10.1111/CGF.12870;kolinger;;;
-10.1016/J.PROCS.2017.05.105;kolinger;;;
-10.1016/J.PROCS.2017.05.132;kolinger;;;
-10.1016/J.PROCS.2017.05.040;kolinger;;;
-10.1007/978-3-319-62395-5_31;kolinger;;;
-10.1007/978-3-319-62395-5_32;kolinger;;;
-10.1007/978-3-662-58039-4_7;kolinger;;;
-10.5220/0006538401750182;kolinger;;;
-10.3390/IJGI8120538;kolinger;;;
-10.4018/IJDWM.2019040103;kolinger;;;
-10.1109/BIBE.2019.00010;kolinger;;;
-10.5220/0007658200260032;kolinger;;;
-10.5220/0007254801850192;kolinger;;;
-10.5220/0007566401220133;kolinger;;;
-10.1007/S00371-019-01657-Y;kolinger;;;
-10.1007/978-3-030-50426-7_38;kolinger;;;
-10.1007/978-3-030-50371-0_34;kolinger;;;
-10.1007/978-3-030-86973-1_20;kolinger;;;
-10.1016/J.CAGD.2022.102138;kolinger;;;
-10.3390/SYM14051060;kolinger;;;
-10.1007/S00371-020-02034-W;kolinger;;;
-10.1007/978-3-031-08751-6_16;kolinger;;;
-10.1016/J.PROCS.2016.09.037;vcelak;;;
-10.1007/S11192-010-0326-1;dalfia;;;
-10.1016/J.IPM.2011.10.001;dalfia;;;
-10.1016/J.JOI.2012.02.002;dalfia;;;
-10.3390/INFO4040351;dalfia;;;
-10.1002/ASI.23049;dalfia;;;
-10.1007/3-540-60286-0_106;matousek;;;
-10.1007/3-540-48239-3_56;matousek;;;
-10.1007/3-540-48239-3;mautner;;;
-10.1007/3-540-45323-7_67;matousek;;;
-10.1007/3-540-44805-5_56;matousek;;;
-10.1007/3-540-44805-5_57;moucek;;;
-10.1007/3-540-44805-5;moucek;;;
-10.1109/CIRA.2003.1222307;mautner;;;
-10.1007/B13236;mautner;;;
-10.1007/11551874;mautner;;;
-10.1007/978-3-540-74628-7;mautner;;;
-10.1007/978-3-642-04208-9;mautner;;;
-10.1007/978-3-642-23538-2;matousek;;;
-10.1109/ICTAI.2013.106;matousek;;;
-10.1007/978-3-642-45114-0_23;matousek;;;
-10.1007/978-3-642-40585-3;matousek;;;
-10.1007/978-3-319-24033-6;matousek;;;
-10.1155/2015/316325;matousek;;;
-10.1007/978-3-319-64206-2;matousek;;;
-10.1007/978-3-662-58096-7_11;matousek;;;
-10.1007/978-3-658-27808-3_12;matousek;;;
-10.1145/3385958.3430476;matousek;;;
-10.1007/3-540-36077-8_8;zima;;;
-10.1007/978-3-642-04208-9_15;moucek;;;
-10.1109/BMEI.2012.6513026;mautner;;;
-10.1109/BMEI.2012.6513044;mautner;;;
-10.1109/BMEI.2013.6746935;mautner;;;
-10.1109/TSP.2013.6613998;mautner;;;
-10.3389/FNINF.2014.00020;moucek;;;
-10.5220/0004885103870392;mautner;;;
-10.1109/TSP.2015.7296414;mautner;;;
-10.1007/978-3-319-59063-9_17;moucek;;;
-10.5220/0009167007130717;mautner;;;
-10.1007/3-540-44805-5_58;moucek;;;
-10.1007/3-540-36456-0_53;moucek;;;
-10.1007/3-540-36456-0_42;moucek;;;
-10.1109/BMEI.2011.6098757;moucek;;;
-10.1109/BMEI.2012.6513049;moucek;;;
-10.1109/BMEI.2012.6513021;moucek;;;
-10.1109/BMEI.2012.6513051;moucek;;;
-10.1109/BMEI.2012.6512944;moucek;;;
-10.1109/BMEI.2012.6513048;moucek;;;
-10.1109/BIBM.2013.6732554;moucek;;;
-10.1109/VLHCC.2013.6645264;moucek;;;
-10.3389/FNINF.2014.00075;moucek;;;
-10.5220/0004903604220427;moucek;;;
-10.5220/0004934905430550;moucek;;;
-10.5220/0004909304420446;moucek;;;
-10.5220/0004748602380243;moucek;;;
-10.1007/978-3-319-09891-3_10;moucek;;;
-10.3389/FNINF.2015.00003;moucek;;;
-10.5220/0005818204500457;moucek;;;
-10.5220/0005814004200425;moucek;;;
-10.5220/0005801402630270;moucek;;;
-10.5220/0005896901150121;moucek;;;
-10.3389/FNINF.2017.00024;moucek;;;
-10.5220/0006296604770483;moucek;;;
-10.5220/0006229103960400;moucek;;;
-10.5220/0006249504410450;moucek;;;
-10.5220/0006655205480554;moucek;;;
-10.5220/0006650105270532;moucek;;;
-10.5220/0006594104460453;moucek;;;
-10.1007/978-3-030-30487-4_7;moucek;;;
-10.1007/978-3-030-30493-5_23;moucek;;;
-10.5220/0009175407500757;moucek;;;
-10.1145/3418094.3418102;moucek;;;
-10.1007/978-3-030-46970-2;moucek;;;
-10.1109/BIBM52615.2021.9669864;moucek;;;
-10.5220/0010345006670676;moucek;;;
-10.1007/S12021-020-09509-0;moucek;;;
-10.1007/S12021-021-09522-X;moucek;;;
-10.5220/0011086100003188;moucek;;;
-10.11128/SNE.19.TN.09953;netrvalo;;;
-10.7148/2009-0328-0333;netrvalo;;;
-10.1145/1921264.1921298;skala;;;
-10.1016/J.CAG.2008.09.009;skala;;;
-10.1016/J.CAG.2007.09.007;skala;;;
-10.1142/S021946780800326X;skala;;;
-10.1145/1629739.1629744;skala;;;
-10.1111/J.1467-8659.2008.01304.X;skala;;;
-10.1002/CAV.227;skala;;;
-10.1111/J.1467-8659.2010.01659.X;skala;;;
-10.1007/S00371-009-0378-5;skala;;;
-10.1145/1811158.1811161;skala;;;
-10.1016/J.CAD.2011.03.005;skala;;;
-10.1007/S00366-010-0199-1;skala;;;
-10.1109/TVCG.2010.38;skala;;;
-10.1007/S00371-011-0604-9;skala;;;
-10.1145/2407156.2407200;skala;;;
-10.1145/2407783.2407793;skala;;;
-10.2312/CONF/EG2013/TUTORIALS/T7;skala;;;
-10.1145/2542302.2542312;skala;;;
-10.1007/978-3-319-07857-1_113;skala;;;
-10.1007/978-3-319-09153-2_6;skala;;;
-10.1007/978-3-319-09129-7_23;skala;;;
-10.1145/2614217.2614223;skala;;;
-10.2312/EGT.20151046;skala;;;
-10.1016/J.PROCS.2015.05.369;skala;;;
-10.1007/978-3-319-21963-9_24;skala;;;
-10.1007/978-3-319-21978-3_34;skala;;;
-10.1016/J.ADVENGSOFT.2015.09.002;skala;;;
-10.1145/2949035.2949036;skala;;;
-10.1145/2949035.2949050;skala;;;
-10.1007/978-3-319-42085-1_2;skala;;;
-10.1007/978-3-319-42108-7_31;skala;;;
-10.1109/SIBGRAPI.2016.015;skala;;;
-10.1016/J.CAGEO.2017.08.007;skala;;;
-10.15439/2017F7;skala;;;
-10.1016/J.PROCS.2017.05.081;skala;;;
-10.1016/J.PROCS.2017.05.271;skala;;;
-10.1007/978-3-319-62392-4_11;skala;;;
-10.1016/J.ADVENGSOFT.2018.06.013;skala;;;
-10.3233/ICA-170556;skala;;;
-10.1007/978-3-319-91192-2_12;skala;;;
-10.1109/EECS.2018.00018;skala;;;
-10.1007/978-3-030-24289-3_27;skala;;;
-10.1109/ACCESS.2019.2931454;skala;;;
-10.1007/978-3-030-24289-3_24;skala;;;
-10.1007/978-3-030-24289-3_25;skala;;;
-10.3233/ICA-190610;skala;;;
-10.1007/978-3-030-50433-5_19;skala;;;
-10.1007/978-3-030-50433-5_24;skala;;;
-10.1007/978-3-030-58802-1_3;skala;;;
-10.1007/978-3-030-58799-4_21;skala;;;
-10.1007/978-3-030-58802-1_1;skala;;;
-10.1007/978-3-030-58799-4_12;skala;;;
-10.13053/CYS-25-1-3473;skala;;;
-10.1016/J.MATCOM.2020.10.009;skala;;;
-10.1007/978-3-030-86976-2_1;skala;;;
-10.1007/978-3-030-86976-2_2;skala;;;
-10.15388/22-INFOR477;skala;;;
-10.1007/978-3-031-08751-6_52;skala;;;
-10.1007/978-3-031-10522-7_28;skala;;;
-10.1007/978-3-031-10450-3_15;skala;;;
-10.1007/978-3-031-10450-3_18;skala;;;
-10.48550/ARXIV.2206.13216;skala;;;
-10.48550/ARXIV.2208.03674;skala;;;
-10.48550/ARXIV.2208.03677;skala;;;
-10.48550/ARXIV.2208.03682;skala;;;
-10.48550/ARXIV.2208.04728;skala;;;
-10.48550/ARXIV.2208.04729;skala;;;
-10.48550/ARXIV.2208.04730;skala;;;
-10.48550/ARXIV.2208.12488;skala;;;
-10.48550/ARXIV.2209.01543;skala;;;
-10.48550/ARXIV.2211.04402;skala;;;
-10.48550/ARXIV.2212.11875;skala;;;
-10.48550/ARXIV.2212.11986;skala;;;
-10.48550/ARXIV.2212.12859;skala;;;
-10.48550/ARXIV.2212.13398;skala;;;
-10.48550/ARXIV.2301.01713;skala;;;
-10.48550/ARXIV.2301.01715;skala;;;
-10.48550/ARXIV.2301.03191;skala;;;
-10.1007/978-3-540-77129-6_70;besoft;;;
+doi;coo_authors
+10.1093/JIGPAL/JZI039;Martin Dost·l
+10.1007/978-3-642-22098-2_26;Martin Dost·l
+10.1007/978-3-642-22098-2_27;Martin Dost·l
+10.1007/S00500-012-0875-8;Martin Dost·l
+10.1007/978-3-642-30504-7_15;Martin Dost·l
+10.1007/978-3-642-30504-7_37;Martin Dost·l
+10.1007/3-540-47849-3_23;P¯emysl Brada
+10.1145/503209.503250;P¯emysl Brada
+10.1109/CMPSAC.2002.1045140;P¯emysl Brada
+10.1109/ECBS.2004.1316706;P¯emysl Brada, Stanislav Racek, P. Grilinger
+10.1109/ISORC.2004.1300363;P¯emysl Brada, Stanislav Racek, P. Grilinger
+10.1109/EUROMICRO.2006.50;P¯emysl Brada, Lukas Valenta
+10.1007/978-3-540-87891-9_22;P¯emysl Brada
+10.1109/SEAA.2008.51;P¯emysl Brada
+10.1109/SEAA.2009.80;P¯emysl Brada, Jaroslav Bauml
+10.1109/SEAA.2009.91;P¯emysl Brada
+10.1016/J.ENTCS.2010.07.005;P¯emysl Brada, Kamil Jeûek, Petr ätÏp·n
+10.1016/J.ENTCS.2011.02.002;P¯emysl Brada, Jaroslav Bauml
+10.1016/J.ENTCS.2011.11.009;P¯emysl Brada
+10.1016/J.ENTCS.2011.11.012;P¯emysl Brada, Jaroslav änajberk
+10.1109/ECBS-EERC.2011.41;Pavel Herout, Premek Brada, Jaroslav Snajberk, Richard Lipka, Tomas Potuzak
+10.1007/978-3-642-32341-6_14;Premek Brada, Kamil Jeûek 
+10.1007/978-3-642-25878-7_44;Premek Brada, Lukas Holy
+10.1109/SEAA.2012.48;Premek Brada, Kamil Jeûek 
+10.1109/SEAA.2012.18;Pavel Herout, Premek Brada, Richard Lipka, Tomas Potuzak
+10.1109/IV.2012.17;Premek Brada, Kamil Jeûek , Lukas Holy, Jaroslav Snajberk
+10.1109/IV.2012.20;Premek Brada, Lukas Holy, Jaroslav Snajberk
+10.1007/978-3-642-30561-0_9;Premek Brada, Lukas Hol˝, Kamil Jeûek
+10.1109/VLHCC.2012.6344540;Premek Brada, Lukas Hol˝, Jaroslav Snajberk
+10.1109/VLHCC.2012.6344541;Premek Brada, Lukas Hol˝, Kamil Jeûek
+10.1109/VLHCC.2012.6344547;Premek Brada, Jaroslav Snajberk, Kamil Jeûek
+10.1109/CSMR.2013.53;Premek Brada, Lukas Hol˝, Kamil Jeûek
+10.1109/CSMR.2013.60;Premek Brada, Lukas Hol˝, Jaroslav Snajberk
+10.1109/EUROCON.2013.6625023;Pavel Herout, Premek Brada, Richard Lipka, Tomas Potuzak
+10.1109/SEAA.2013.58;Premek Brada, Lukas Hol˝, Kamil Jeûek, Antonin Slezacek
+10.1109/ICSM.2013.82;Premek Brada, Kamil Jeûek , Lukas Holy, Jaroslav Snajberk
+10.1007/978-3-642-35843-2_36;Pavel Herout, Premek Brada, Richard Lipka, Tomas Potuzak
+10.1109/VLHCC.2013.6645263;Premek Brada, Lukas Hol˝, Kamil Jeûek
+10.1109/CSMR-WCRE.2014.6747226;Premek Brada, Kamil Jeûek, Jens Dietrich
+10.1016/J.INFSOF.2015.02.014;Premek Brada, Kamil Jeûek, Jens Dietrich
+10.1016/J.SCICO.2014.06.013;Premek Brada, Kamil Jeûek
+10.1109/SEAA.2015.32;Premek Brada, Richard Lipka, Tom· Potu·k, Petr Hnetynka, JirÌ Vin·rek
+10.1007/S10664-015-9389-1;Premek Brada, Kamil Jeûek, Jens Dietrich
+10.1109/CSEET.2016.33;Pavel Herout, Premek Brada
+10.1109/SEAA.2016.37;Premek Brada, Petr PÌcha
+10.1007/978-3-662-49192-8_37;Premek Brada, Jakub DanÏk
+10.4230/LIPICS.ECOOP.2017.9;Premek Brada, Kamil Jeûek, Jens Dietrich, David J. Pearce
+10.15439/2017F139;Premek Brada, Richard Lipka, Tom·ö Potuû·k
+10.1109/ICSAW.2017.46;Premek Brada, Petr PÌcha, Ralf Ramsauer, Wolfgang Mauerer
+10.4230/DARTS.3.2.6;Premek Brada, Kamil Jeûek, Jens Dietrich, David J. Pearce
+10.1145/3361149.3361178;Premek Brada, Petr PÌcha
+10.1145/3361149.3361169;Premek Brada, Petr PÌcha
+10.5220/0007579803300337;Premek Brada, Petr PÌcha, Luk·ö Hol˝, Richard Lipka
+10.5220/0007472503960403;Premek Brada, Sangita De, Michael Niklas, J¸rgen Mottok
+10.1109/SEAA51224.2020.00034;Premek Brada, ZdenÏk Valeö
+10.5220/0009164002880293;Premek Brada, Lukas Hol˝, Kamil Jeûek, Richard Lipka
+10.1016/J.PROCS.2020.03.151;Premek Brada, Sangita De, Michael Niklas, Rooney Brian, Juergen Mottok
+10.1109/SEAA51224.2020.00024;Premek Brada, Petr PÌcha, Lenka Simeckova
+10.1145/3384419.3430443;Premek Brada, Luk·ö »ern˝, Michal Kepka
+10.32473/FLAIRS.V34I1.128512;Premek Brada, Sangita De, Juergen Mottok, Michael Niklas
+10.48550/ARXIV.2204.06816;Premek Brada, Danny Weyns, Ilias Gerostathopoulos, Nadeem Abbas, Jesper Andersson, Stefan Biffl, Tomas Bures, Amleto Di Salle, Patricia Lago, Angelika Musil, Premek Brada, Danny Weyns, Ilias Gerostathopoulos, Nadeem Abbas, Jesper Andersson, Stefan Biffl, Tomas Bures, Amleto Di Salle, Patricia Lago, Angelika Musil, Juergen Musil, Patrizio Pelliccione
+10.1145/3524844.3528077;Pavel Kr·l
+10.48550/ARXIV.2211.03116;Karel Dudacek
+10.1007/978-3-642-54903-8_35;Karel Dudacek
+10.1109/DDECS.2008.4538772;Karel Dudacek
+10.3103/S0146411619030039;Pavel Herout, Jan HlaviËka, Stanislav Racek
+10.1109/ICAT47117.2019.8938958;Pavel Herout, Jan HlaviËka, Stanislav Racek
+10.1016/S0928-4869(00)00009-4;Pavel Herout, Astrit Ademaj, P. Grillinger, J. Hlavicka
+10.1007/3-540-36080-8_23;Pavel Herout, Richard Lipka
+10.1109/OLT.2002.1030178;Pavel Herout, Richard Lipka
+10.1109/UKSIM.2008.53;Pavel Herout, Miroslav Bures, Bestoun S. Ahmed
+10.7148/2009-0151-0157;Pavel Herout, Tom·ö Kohlsch¸tter
+10.1007/978-3-642-33191-6_53;Pavel Herout, Tom·ö Kohlsch¸tter
+10.1109/ICST46399.2020.00059;Miloslav KonopÌk, Ivan Habernal
+10.1109/ICST49551.2021.00059;Miloslav KonopÌk, Ivan Habernal
+10.1007/11551874_45;Miloslav KonopÌk, Ivan Habernal
+10.1007/978-3-540-87391-4_11;Miloslav KonopÌk, Ivan Habernal
+10.1007/978-3-642-04208-9_42;Miloslav KonopÌk, Ivan Habernal
+10.1007/978-3-642-04208-9_43;Miloslav KonopÌk, Ond¯ej RohlÌk
+10.1007/978-3-642-17313-4_37;Miloslav KonopÌk, Tom·ö BrychcÌn
+10.1007/978-3-642-15760-8_17;Miloslav KonopÌk, Michal Konkol
+10.1109/IDAACS.2011.6072829;Miloslav KonopÌk, Ivan Habernal
+10.1007/978-3-642-23538-2_26;Miloslav KonopÌk, Michal Konkol
+10.1016/J.ESWA.2012.12.070;Miloslav KonopÌk, Tom·ö BrychcÌn
+10.1007/978-3-642-40585-3_20;Miloslav KonopÌk, Michal Konkol
+10.1016/J.CSL.2013.05.001;Miloslav KonopÌk, Tom·ö BrychcÌn
+10.1007/978-3-319-10816-2_33;Miloslav KonopÌk, Tom·ö BrychcÌn, Michal Konkol
+10.1016/J.CSL.2015.01.004;Miloslav KonopÌk, Ondr?ej Praz?·k 
+10.1016/J.ESWA.2014.12.015;Miloslav KonopÌk, Tom·ö BrychcÌn
+10.1016/J.IPM.2014.08.006;Miloslav KonopÌk, Michal Konkol
+10.1007/978-3-319-23132-7_30;Miloslav KonopÌk,†Ond¯ej Praû·k,†David Steinberger,†Tom·ö BrychcÌn
+10.1007/978-3-319-24033-6_7;Miloslav KonopÌk,†Ond¯ej Praû·k,†David Steinberger
+10.18653/V1/S16-1124;Miloslav KonopÌk, Ondr?ej Praz?·k 
+10.26615/978-954-452-049-6_053;Miloslav KonopÌk, Ondr?ej Praz?·k 
+10.26615/978-954-452-049-6_077;Miloslav KonopÌk, Ondr?ej Praz?·k, Jakub Sido
+10.1007/978-3-030-00794-2_6;Miloslav KonopÌk, Ondr?ej Praz?·k 
+10.13053/CYS-23-3-3259;Miloslav KonopÌk, Jakub Sido
+10.26615/978-954-452-056-4_112;Miloslav KonopÌk, Kamil Ekötein, Ond¯ej Praû·k, Jakub Sido 
+10.1007/978-3-030-26061-3_45;Miloslav KonopÌk, Kamil Ekötein, Frantiöek P·rtl
+10.1007/978-3-030-90425-8_5;Miloslav KonopÌk, VojtÏch BartiËka, Ond¯ej Praû·k, Jakub Sido
+10.1007/978-3-030-83527-9;Miloslav KonopÌk, Jan Paöek, Jakub Sido, Ond¯ej Praû·k
+10.1007/978-3-031-16270-1_1;Miloslav KonopÌk, ZdenÏk éabokrtsk˝, Anna Nedoluzhko, Michal Nov·k, Maciej Ogrodniczuk, Martin Popel, Ond¯ej Praû·k, Jakub Sido, Daniel Zeman, Yilun Zhu
+10.48550/ARXIV.2203.14093;Miloslav KonopÌk, Ondr?ej Praz?·k 
+10.48550/ARXIV.2209.07841;Jana KleËkov·†
+10.48550/ARXIV.2209.12516;Jana KleËkov·†
+10.1007/3-540-48239-3_49;Jana KleËkov·, Christophe Cerisara, Pavel Kr·l
+10.1007/978-3-540-39398-6_40;Jana KleËkov·, Christophe Cerisara, Pavel Kr·l
+10.1109/ICASSP.2006.1659957;Jana KleËkov·, Petr Pinkas
+10.1109/ICASSP.2007.367186;Jana KleËkov·†
+10.1109/ICITST.2009.5402562;Jana KleËkov·, VladimÌr Rohan, Petr Maule
+10.1109/ICONS.2009.41;Jana KleËkov·, Svetlana Machova
+10.1109/ICONS.2009.37;Petr VËel·k,  Jana KleËkov·
+10.1109/NLPKE.2010.5587805;Jana KleËkov·, Svetlana Machova
+10.1109/BMEI.2011.6098665;Petr Vcelak, Jana Kleckova, Michal Kratochvil, Vladimir Rohan
+10.1007/978-3-642-28493-9_18;Petr Vcelak, Jana Kleckova, Michal Kratochvil, Vladimir Rohan
+10.1109/BMEI.2012.6513206;Jana KleËkov·, Petr Maule, VladimÌr Rohan, Radek Tup˝
+10.1109/BMEI.2012.6513038;Petr Vcelak, Michal Kratochvil, Jana Kleckova
+10.1007/S11548-013-0815-9;Petr Vcelak, Martin Kryl, Ladislav Racak, Jana Kleckova
+10.1109/BMEI.2014.7002892;Petr Vcelak, Martin Kryl, Michal Kratochvil, Jana Kleckova
+10.5220/0006155303340339;Petr Vcelak, Martin Kryl, Jana Kleckova
+10.1109/CISP-BMEI.2017.8302291;Petr Vcelak, Martin Kryl, Michal Kratochvil, Jana Kleckova
+10.1109/CISP-BMEI.2018.8633266;Ivana Kolingerov·†
+10.1016/J.IJMEDINF.2019.02.011;Ivana Kolingerov·, Andrej Ferko
+10.1007/S003710050088;Ivana Kolingerov·, Borut éalik
+10.1007/S003710100125;Ivana Kolingerov·, Josef Kohout 
+10.1016/S0097-8493(02)00090-0;Ivana Kolingerov· 
+10.1007/S00371-002-0173-Z;Ivana Kolingerov·, Borut éalik
+10.1007/3-540-47789-6_13;Ivana Kolingerov·, Josef Kohout 
+10.1080/713811749;Ivana Kolingerov·, Petr Vanecek
+10.1007/S00371-003-0219-X;Ivana Kolingerov·, Josef Kohout 
+10.1145/984952.984966;Ivana Kolingerov·, Michal Varnuska
+10.1145/984952.984967;Ivana Kolingerov·, Josef Kohout, Ji¯Ì é·ra 
+10.1145/984952.984968;Ivana Kolingerov·, Petr Vanecek
+10.1016/J.CAG.2004.06.009;Ivana Kolingerov·, V·clav Strych, V·clav »ada 
+10.1109/CGI.2004.1309186;Ivana Kolingerov·, Michal Varnuöka
+10.1007/978-3-540-25944-2_16;Ivana Kolingerov· 
+10.1007/978-3-540-25944-2_19;Ivana Kolingerov·, Michal Varnuöka
+10.1007/978-3-540-24709-8_58;Ivana Kolingerov·, Pavel Maur
+10.1007/978-3-540-24767-8_21;Ivana Kolingerov·, Jind¯ich Parus
+10.1007/978-3-540-24709-8_72;Ivana Kolingerov·, Josef Kohout, Ji¯Ì é·ra 
+10.1145/1037210.1037221;Ivana Kolingerov·, Borut éalik
+10.1016/J.PARCO.2005.02.010;Ivana Kolingerov·, Michal Varnuska, Josef Kohout
+10.1016/J.CAGEO.2005.12.004;Ivana Kolingerov·, Petr M‰rz, Bedrich Beneö
+10.1007/11751540_9;Ivana Kolingerov·, Petr VanÏËek
+10.1145/2602161.2602173;Ivana Kolingerov·, Michal Varnuska
+10.1016/J.CAG.2006.10.003;Ivana Kolingerov·, Jind¯ich Parus, Anders Hast
+10.1504/IJCSE.2007.014461;Ivana Kolingerov·
+10.1080/2151237X.2007.10129249;Ivana Kolingerov·, Petr Broû, P¯emysl ZÌtka, Russel Ahmed Apu, Marina Gavrilova
+10.2312/EGED.20071010;Ivana Kolingerov·
+10.1145/2614348.2614381;Ivana Kolingerov·, Francisco Ramos, Miguel Chover, Jindra Parus
+10.1111/J.1467-8659.2008.01172.X;Ivana Kolingerov·
+10.1007/978-3-540-69387-1_10;Ivana Kolingerov·, Jind¯ich Parus, Martina M·lkov·
+10.1007/978-3-540-85126-4_11;Ivana Kolingerov·, Maty·ö Dol·k, V·clav Strych
+10.1016/J.ADVENGSOFT.2008.06.001;Ivana Kolingerov·, Michal Zemek
+10.1016/J.CAGEO.2008.12.017;Ivana Kolingerov·, Martina M·lkov·, Jind¯ich Parus, Bed¯ich Beneö 
+10.1145/1980462.1980490;Ivana Kolingerov·, Josef Kohout, Michal Rulf, V·clav Uher 
+10.1007/S00371-009-0396-3;Ivana Kolingerov·, Tom·ö Vom·Ëka
+10.1007/978-3-642-15907-7_6;Ivana Kolingerov·, Martin Man·k
+10.1007/978-3-642-15907-7_43;Ivana Kolingerov·, Roman Soukal
+10.1109/ISVD.2010.22;Ivana Kolingerov·, Jan TrËka, Borut éalik
+10.1016/J.PROCS.2010.04.025;Ji¯Ì Sk·la, Ivana Koligerov·
+10.1016/J.ADVENGSOFT.2011.04.006;Ivana Kolingerov·, Jan TrËka, Ladislav Hobza 
+10.1016/J.CAGEO.2010.10.005;Ivana Kolingerov·, Michal Zemek
+10.1007/978-3-642-21931-3_3;Ivana Kolingerov·, V·clav Purchart, Tom·ö Paöek, Petr VanÏËek 
+10.1007/978-3-642-21931-3_14;Ivana Kolingerov·, Roman Soukal, Martina Malkov·
+10.1007/978-3-642-33564-8_27;Ivana Kolingerov·, Roman Soukal, V·clav Purchart
+10.1007/978-3-642-33191-6_73;Ivana Kolingerov·, Jan Jeûek
+10.1016/J.ADVENGSOFT.2014.05.004;Ivana Kolingerov·, Petr MartÌnek
+10.1007/978-3-319-03611-3_10;Ivana Kolingerov·, Jan Byöka, Barbora KozlÌkov·, Ji¯Ì Sochor
+10.5220/0004669701040111;Ivana Kolingerov·, MartÌnek Petr
+10.1145/2788539.2788550;Ivana Kolingerov·, VÏra Skorkovsk·
+10.1145/2788539.2788561;Ivana Kolingerov·, VÏra Skorkovsk·, Libor V·öa, Petr VanÏËek, Martin Prantl, Petr MartÌnek
+10.1016/J.CAG.2016.02.001;Ivana Kolingerov·, Martin Manak
+10.1111/CGF.12982;Ivana Kolingerov·, Martin Prantl, Libor V·öa
+10.1016/J.IPL.2015.09.017;Ivana Kolingerov·, Martin Prantl, Libor V·öa
+10.5220/0005676801490158;Ivana Kolingerov·, Martin Manak, L. Jirovsk˝
+10.1007/978-3-319-64870-5_3;Ivana Kolingerov·, Martin Prantl, VÏra Skorkovsk·, Petr MartÌnek
+10.1111/CGF.12870;Ivana Kolingerov·, V?ra Skorkovsk·, Martin Prantl, Petr MartÌnek
+10.1016/J.PROCS.2017.05.105;Ivana Kolingerov·, Jakub Szkandera, Martin MaÚ·k
+10.1016/J.PROCS.2017.05.132;Ivana Kolingerov·, Andrej Ferko, Tomas Vomacka, Martin Manak
+10.1016/J.PROCS.2017.05.040;Ivana Kolingerov·, Jakub Szkandera, Ond¯ej Kaas
+10.1007/978-3-319-62395-5_31;Ivana Kolingerov·, Andrej Ferko, Tomas Vomacka, Martin Manak
+10.1007/978-3-319-62395-5_32;Ivana Kolingerov·, Bedrich Benes, VÏra Skorkovsk·
+10.1007/978-3-662-58039-4_7;Ivana Kolingerov·, Frantiöek Kolovsk˝, Jan Jeûek 
+10.5220/0006538401750182;Ivana Kolingerov·, Jakub Szkandera, Ond¯ej Kaas
+10.3390/IJGI8120538;Ivana Kolingerov·, Martin Manak, Alexey Anikeenko
+10.4018/IJDWM.2019040103;Ivana Kolingerov·, Frantiöek Kolovsk˝, Jan Jeûek
+10.1109/BIBE.2019.00010;Ivana Kolingerov·, Martin Prantl, Libor V·öa
+10.5220/0007658200260032;Ivana Kolingerov·, VÏra Skorkovsk·, Petr VanÏËek
+10.5220/0007254801850192;Ivana Kolingerov·, Tom·ö Vom·Ëka, Martin MaÚ·k 
+10.5220/0007566401220133;Ivana Kolingerov·, Luk·ö Hruda, Miroslav L·viËka16
+10.1007/S00371-019-01657-Y;Ivana Kolingerov·, Jakub Szkandera, Martin MaÚ·k
+10.1007/978-3-030-50426-7_38;Ivana Kolingerov·, Frantiöek Kolovsk˝
+10.1007/978-3-030-50371-0_34;Ivana Kolingerov·, Luk·ö Hruda, Miroslav L·viËka, Martin MaÚ·k
+10.1007/978-3-030-86973-1_20;Ivana Kolingerov·, Borut éalik, Damjan Strnad, ätefan Kohek, Andrej Nerat, Niko LukaË, David Podgorelec
+10.1016/J.CAGD.2022.102138;Ivana Kolingerov·, Luk·ö Hruda, Libor V·öa 
+10.3390/SYM14051060;Ivana Kolingerov·, Jakub Szkandera
+10.1007/S00371-020-02034-W;Petr Vcelak, Tomas Koutny, Michal Krcma, Josef Kohout, Petr Jezek, Jana Varnuskova, Jan Strnadek
+10.1007/978-3-031-08751-6_16;Dalibor Fiala
+10.1016/J.PROCS.2016.09.037;Dalibor Fiala
+10.1007/S11192-010-0326-1;Dalibor Fiala
+10.1016/J.IPM.2011.10.001;Dalibor Fiala
+10.1016/J.JOI.2012.02.002;Dalibor Fiala
+10.3390/INFO4040351;Vaclav Matousek
+10.1002/ASI.23049;V·clav Matouöek, Jana OcelÌkov· 
+10.1007/3-540-60286-0_106;V·clav Matouöek, Pavel Mautner, Jana OcelÌkov·, Petr Sojka
+10.1007/3-540-48239-3_56;Vaclav Matousek
+10.1007/3-540-48239-3;V·clav Matouöek, Jana Schwarz
+10.1007/3-540-45323-7_67;Roman MouËek, Karel Tauser, V·aclav Matouöek 
+10.1007/3-540-44805-5_56;Roman MouËek, V·clav Matouöek, Pavel Mautner, Karel Tauöer
+10.1007/3-540-44805-5_57;Pavel Mautner, V·clav Matouöek, Jurgen Kempf, O. Rohlik
+10.1007/3-540-44805-5;Pavel Mautner, V·clav Matouöek
+10.1109/CIRA.2003.1222307;Pavel Mautner, V·clav Matouöek, Tom·ö Pavelka
+10.1007/B13236;Pavel Mautner, V·clav Matouöek
+10.1007/11551874;10.1007/978-3-642-04208-9
+10.1007/978-3-540-74628-7;V·clav Matouöek, Ivan Habernal
+10.1007/978-3-642-04208-9;V·clav Matouöek, Tom· Nestorovic
+10.1007/978-3-642-23538-2;V·clav Matouöek, Tom· Nestorovic
+10.1109/ICTAI.2013.106;V·clav Matouöek, Ivan Habernal
+10.1007/978-3-642-45114-0_23;V·clav Matouöek, Pavel Kr·l
+10.1007/978-3-642-40585-3;V·clav Matouöek, Tino Haderlein, Cornelia Schwemmle, Michael Dˆllinger, Martin Ptok, Elmar Nˆth
+10.1007/978-3-319-24033-6;V·clav Matouöek, Kamil Ekötein
+10.1155/2015/316325;V·clav Matouöek, Ludwig Thomeczek, Andreas Attenberger, J¸rgen Mottok 
+10.1007/978-3-319-64206-2;V·clav Matouöek, Ludwig Thomeczek, Andreas Attenberger, J¸rgen Mottok, Andreas Attenberger
+10.1007/978-3-662-58096-7_11;V·clav Matouöek, Nils Weiss, Sebastian Renner, J¸rgen Mottok
+10.1007/978-3-658-27808-3_12;Martin ZÌma, Karel Jezek
+10.1145/3385958.3430476;Roman MouËek, Pavel Mautner 
+10.1007/3-540-36077-8_8;Pavel Mautner, Tom·ö ÿondÌk
+10.1007/978-3-642-04208-9_15;Pavel Mautner, Luk·ö Va¯eka
+10.1109/BMEI.2012.6513026;Pavel Mautner, Tom·ö ÿondÌk
+10.1109/BMEI.2012.6513044;Pavel Mautner, Luk·ö Va¯eka
+10.1109/BMEI.2013.6746935;Roman MouËek, Petr Jeûek, Luk·ö Va¯eka, Tom·ö ÿondÌk, Petr Br˘ha, V·clav Papeû, Pavel Mautner, Ji¯Ì Novotn˝, Tom·ö Prokop, Jan ätÏbet·k
+10.1109/TSP.2013.6613998;Pavel Mautner, Luk·ö Va¯eka
+10.3389/FNINF.2014.00020;Pavel Mautner, Luk·ö Va¯eka
+10.5220/0004885103870392;Roman MouËek, Pavel Mautner, Luk·ö Va¯eka, Tom·ö Prokop
+10.1109/TSP.2015.7296414;Pavel Mautner, Pavel Mochura
+10.1007/978-3-319-59063-9_17;Roman MouËek, Karel Tauöer, Pavel Nygr˝n
+10.5220/0009167007130717;Roman MouËek, Kamil Ekötein 
+10.1007/3-540-44805-5_58;Roman MouËek, Kamil Ekötein 
+10.1007/3-540-36456-0_53;Roman MouËek, Petr Jeûek
+10.1007/3-540-36456-0_42;Roman MouËek, Petr Br¸ha
+10.1109/BMEI.2011.6098757;Roman MouËek, Petr Jeûek
+10.1109/BMEI.2012.6513049;Roman MouËek, Jan ÿe¯icha
+10.1109/BMEI.2012.6513021;Roman MouËek, Vaclav Papez
+10.1109/BMEI.2012.6513051;Roman MouËek, Jan Stebetak
+10.1109/BMEI.2012.6512944;Roman MouËek, Vaclav Papez
+10.1109/BMEI.2012.6513048;Roman MouËek, Petr Jeûek, Yann Le Franc, Thomas Wachtler, Jan Grewe
+10.1109/BIBM.2013.6732554;Roman MouËek
+10.1109/VLHCC.2013.6645264;Roman MouËek, Petr Jeûek, Jakub DanÏk
+10.3389/FNINF.2014.00075;Roman MouËek, VojtÏch Koöa¯
+10.5220/0004903604220427;Roman MouËek, Jan ätebet·k
+10.5220/0004934905430550;Roman MouËek, Jan ätebet·k, Jan KoreÚ
+10.5220/0004909304420446;Roman MouËek, Tom·ö Prokop
+10.5220/0004748602380243;Roman MouËek, Petr Jeûek
+10.1007/978-3-319-09891-3_10;Roman MouËek, Jaromir Salamon
+10.3389/FNINF.2015.00003;Roman MouËek, Jan ätebet·k
+10.5220/0005818204500457;Roman MouËek, Luk·ö Va¯eka, Tom·ö Prokop, Jan ätÏbet·k
+10.5220/0005814004200425;Roman MouËek, Petr Jeûek
+10.5220/0005801402630270;Roman MouËek, V·clav Papeû
+10.5220/0005896901150121;Roman MouËek, Petr Br˘ha, Pavel änejdar, David Bohmann, V·clav Kraft, Peter Rehor
+10.3389/FNINF.2017.00024;Roman MouËek, Petr Jeûek
+10.5220/0006296604770483;Roman MouËek, Luk·ö Hnojsk˝, Luk·ö Va¯eka, Tom·ö Prokop, Petr Br˘ha
+10.5220/0006229103960400;Roman MouËek, Petr Br˘ha, VÌtÏzslav Vacek, Pavel änejdar, Luk·ö Va¯eka, V·clav Kraft, Peter Rehor
+10.5220/0006249504410450;Roman MouËek, Jaromir Salamon, Kate¯ina »ern· 
+10.5220/0006655205480554;Roman MouËek, Ji¯Ì VanÏk
+10.5220/0006650105270532;Roman MouËek, Wajid Mumtaz, Luk·ö Va¯eka 
+10.5220/0006594104460453;Roman MouËek, Wajid Mumtaz, Luk·ö Va¯eka 
+10.1007/978-3-030-30487-4_7;Roman MouËek, Kl·ra Ber·nkov·
+10.1007/978-3-030-30493-5_23;Roman MouËek, Petr Br˘ha, P. Volf, L. äimeËkov·, O. äù·va
+10.5220/0009175407500757;Roman MouËek, Ana Roque, Arkadiusz Tomczyk, Elisabetta De Maria, Felix Putze, Ana Fred, Hugo Gamboa
+10.1145/3418094.3418102;Roman MouËek, V·clav HonzÌk
+10.1007/978-3-030-46970-2;Roman MouËek, Filip KupilÌk
+10.1109/BIBM52615.2021.9669864;Roman MouËek, Mathew Birdsall Abrams, Jan G. Bjaalie, Samir Das, Gary F. Egan, Satrajit S. Ghosh, Wojtek J. Goscinski, Jeffrey S. Grethe, Jeanette Hellgren Kotaleski, Eric Tatt Wei Ho, David N. Kennedy, Linda J. Lanyon, Trygve B. Leergaard, Helen S. Mayberg, Luciano Milanesi, J. B. Poline, Prasun K. Roy, Stephen C. Strother, Tong Boon Tang, Paul Tiesinga, Thomas Wachtler, Daniel K. WÛjcik & Maryann E. Martone 
+10.5220/0010345006670676;Roman MouËek, Mathew Birdsall Abrams, Jan G. Bjaalie, Samir Das, Gary F. Egan, Satrajit S. Ghosh, Wojtek J. Goscinski, Jeffrey S. Grethe, Jeanette Hellgren Kotaleski, Eric Tatt Wei Ho, David N. Kennedy, Linda J. Lanyon, Trygve B. Leergaard, Helen S. Mayberg, Luciano Milanesi, J. B. Poline, Prasun K. Roy, Stephen C. Strother, Tong Boon Tang, Paul Tiesinga, Thomas Wachtler, Daniel K. WÛjcik & Maryann E. Martone 
+10.1007/S12021-020-09509-0;Roman MouËek, Luk·ö Va¯eka, Petr Br˘ha, Pavel änejdar, Michal Hork˝, Ivana Herejkov·
+10.1007/S12021-021-09522-X;Arnostka Netrvalova, Jiri Safarik
+10.5220/0011086100003188;Arnostka Netrvalova, Jiri Safarik
+10.11128/SNE.19.TN.09953;V·clav Skala, Ji¯Ì Zapletal, Petr VanÏËek
+10.7148/2009-0328-0333;V·clav Skala, Slavomir Petrik
+10.1145/1921264.1921298;Vaclav Skala
+10.1016/J.CAG.2008.09.009;Vaclav Skala
+10.1016/J.CAG.2007.09.007;V·clav Skala, Ji¯Ì Zapletal, Petr VanÏËek
+10.1142/S021946780800326X;V·clav Skala, Libor V·öa
+10.1145/1629739.1629744;V·clav Skala, Libor V·öa
+10.1111/J.1467-8659.2008.01304.X;V·clav Skala, Libor V·öa
+10.1002/CAV.227;V·clav Skala, Ivo Han·k, Martin Janda
+10.1111/J.1467-8659.2010.01659.X;Vaclav Skala
+10.1007/S00371-009-0378-5;Vaclav Skala, Rongjiang Pan
+10.1145/1811158.1811161;Vaclav Skala, Rongjiang Pan
+10.1016/J.CAD.2011.03.005;V·clav Skala, Libor V·öa
+10.1007/S00366-010-0199-1;Vaclav Skala, Rongjiang Pan
+10.1109/TVCG.2010.38;Vaclav Skala
+10.1007/S00371-011-0604-9;Vaclav Skala
+10.1145/2407156.2407200;Vaclav Skala
+10.1145/2407783.2407793;Vaclav Skala, Rongjiang Pan, Ondrej Nedved
+10.2312/CONF/EG2013/TUTORIALS/T7;Vaclav Skala
+10.1145/2542302.2542312;Vaclav Skala, Rongjiang Pan, Ondrej Nedved
+10.1007/978-3-319-07857-1_113;Vaclav Skala, Michal Smolik
+10.1007/978-3-319-09153-2_6;Vaclav Skala, Michal Smolik
+10.1007/978-3-319-09129-7_23;Vaclav Skala
+10.1145/2614217.2614223;Vaclav Skala, Michal Smolik
+10.2312/EGT.20151046;Vaclav Skala, Zuzana Majdisova
+10.1016/J.PROCS.2015.05.369;Vaclav Skala, Michal Smolik
+10.1007/978-3-319-21963-9_24;Vaclav Skala, Zuzana Majdisova, Michal Smolik
+10.1007/978-3-319-21978-3_34;Vaclav Skala
+10.1016/J.ADVENGSOFT.2015.09.002;Vaclav Skala
+10.1145/2949035.2949036;Vaclav Skala
+10.1145/2949035.2949050;Vaclav Skala, Michal Smolik
+10.1007/978-3-319-42085-1_2;Vaclav Skala, Zuzana Majdisova, Michal Smolik
+10.1007/978-3-319-42108-7_31;Vaclav Skala, Zuzana Majdisova, Michal Smolik
+10.1109/SIBGRAPI.2016.015;Vaclav Skala
+10.1016/J.CAGEO.2017.08.007;Vaclav Skala
+10.15439/2017F7;Vaclav Skala, Michal Smolik
+10.1016/J.PROCS.2017.05.081;Vaclav Skala, Michal Smolik
+10.1016/J.PROCS.2017.05.271;Vaclav Skala, Zuzana Majdisova, Michal Smolik
+10.1007/978-3-319-62392-4_11;Vaclav Skala, Michal Smolik
+10.1016/J.ADVENGSOFT.2018.06.013;Vaclav Skala, Michal Smolik
+10.3233/ICA-170556;Vaclav Skala, Michal Smolik, Mariia Martynova
+10.1007/978-3-319-91192-2_12;Vaclav Skala, Michal Smolik
+10.1109/EECS.2018.00018;Vaclav Skala, Samsul Ariffin Abdul Karim, Azizan Saaban
+10.1007/978-3-030-24289-3_27;Vaclav Skala, Martin Cervenka, Michal Smolik 
+10.1109/ACCESS.2019.2931454;Vaclav Skala, Michal Smolik
+10.1007/978-3-030-24289-3_24;Vaclav Skala, Zuzana Majdisova, Michal Smolik
+10.1007/978-3-030-24289-3_25;Vaclav Skala, Martin Cervenka, Samsul Ariffin BIN Abdul Karim
+10.3233/ICA-190610;Vaclav Skala, Marek Zabran, Samsul Ariffin BIN Abdul Karim
+10.1007/978-3-030-50433-5_19;Vaclav Skala, Martin »ervenka
+10.1007/978-3-030-50433-5_24;Vaclav Skala
+10.1007/978-3-030-58802-1_3;Vaclav Skala
+10.1007/978-3-030-58799-4_21;Vaclav Skala, Michal Smolik
+10.1007/978-3-030-58802-1_1;Vaclav Skala, Edward Kansa
+10.1007/978-3-030-58799-4_12;Vaclav Skala, Michal Smolik
+10.13053/CYS-25-1-3473;Vaclav Skala
+10.1016/J.MATCOM.2020.10.009;Vaclav Skala
+10.1007/978-3-030-86976-2_1;Vaclav Skala, Michal Smolik
+10.1007/978-3-030-86976-2_2;Vaclav Skala, Matej Cerny, Josef Yassin Saleh 
+10.15388/22-INFOR477;Vaclav Skala
+10.1007/978-3-031-08751-6_52;Vaclav Skala
+10.1007/978-3-031-10522-7_28;Vaclav Skala
+10.1007/978-3-031-10450-3_15;Vaclav Skala
+10.1007/978-3-031-10450-3_18;Vaclav Skala
+10.48550/ARXIV.2206.13216;Vaclav Skala
+10.48550/ARXIV.2208.03674;Vaclav Skala
+10.48550/ARXIV.2208.03677;Vaclav Skala
+10.48550/ARXIV.2208.03682;Vaclav Skala
+10.48550/ARXIV.2208.04728;Vaclav Skala
+10.48550/ARXIV.2208.04729;Vaclav Skala
+10.48550/ARXIV.2208.04730;Vaclav Skala
+10.48550/ARXIV.2208.12488;Vaclav Skala
+10.48550/ARXIV.2209.01543;Vaclav Skala, Vit Ondracka
+10.48550/ARXIV.2211.04402;Vaclav Skala, Vit Ondracka
+10.48550/ARXIV.2212.11875;Vaclav Skala, Michal Smolik, Lukas Karlicek
+10.48550/ARXIV.2212.11986;Vaclav Skala
+10.48550/ARXIV.2212.12859;Vaclav Skala, Radek Svitak
+10.48550/ARXIV.2212.13398;Vaclav Skala, Jan Patera
+10.48550/ARXIV.2301.01713;Vaclav Skala
+10.48550/ARXIV.2301.01715;Josef Kohout
+10.48550/ARXIV.2301.03191;skala
+10.1007/978-3-540-77129-6_70;besoft
