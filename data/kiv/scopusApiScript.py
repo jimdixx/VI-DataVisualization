@@ -12,6 +12,7 @@ MIT_DATA_FULL = "../MIT_DATA_FULL.csv"
 KIV_DATA = "../KIV_DATA.csv"
 KIV_DATA_FULL = "../KIV_DATA_FULL.csv"
 
+
 def get_info_from_scopus_by_DOI(dokument_DOI):
     url = ("https://api.elsevier.com/content/search/scopus"
           + "?query="
@@ -26,8 +27,11 @@ def get_number_of_institutes(link):
     resp = requests.get(link, headers={'Accept': 'application/json', 'X-ELS-APIKey': MY_API_KEY})
     data = json.loads(resp.text.encode('utf-8'))
     if data["abstracts-retrieval-response"].get("affiliation") is not None:
+        if len(data["abstracts-retrieval-response"].get("affiliation")) == 5:
+            if data["abstracts-retrieval-response"].get("affiliation").get("@id") is not None:
+                return 1
         return len(json.loads(resp.text.encode('utf-8'))["abstracts-retrieval-response"]["affiliation"])
-    return 0
+    return 1
 
 
 def load_data(file_path):
@@ -74,11 +78,10 @@ def save_data(pathFile, data):
     f.close()
 
 
-csv_file = load_data(OXFORD_DATA)
+csv_file = load_data(KIV_DATA)
 
 i = 0
 result = {}
-i = 0
 for row in csv_file.values():
     d = get_info_from_scopus_by_DOI(row["doi"])
     if d.get("search-results") is not None:
@@ -92,10 +95,5 @@ for row in csv_file.values():
             result[i] = row
             i += 1
     time.sleep(0.5)
-    # i += 1
-    # if i > 3:
-    #     break
 
-save_data(OXFORD_DATA_FULL, result)
-
-print()
+save_data(KIV_DATA_FULL, result)
