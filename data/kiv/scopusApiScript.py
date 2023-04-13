@@ -27,10 +27,11 @@ def get_number_of_institutes(link):
     resp = requests.get(link, headers={'Accept': 'application/json', 'X-ELS-APIKey': MY_API_KEY})
     data = json.loads(resp.text.encode('utf-8'))
     if data["abstracts-retrieval-response"].get("affiliation") is not None:
-        if len(data["abstracts-retrieval-response"].get("affiliation")) == 5:
-            if data["abstracts-retrieval-response"].get("affiliation").get("@id") is not None:
-                return 1
-        return len(json.loads(resp.text.encode('utf-8'))["abstracts-retrieval-response"]["affiliation"])
+        d = data["abstracts-retrieval-response"]["affiliation"]
+        if isinstance(d, list):
+            return len(d)
+
+        return 1
     return 1
 
 
@@ -78,7 +79,7 @@ def save_data(pathFile, data):
     f.close()
 
 
-csv_file = load_data(KIV_DATA)
+csv_file = load_data(OXFORD_DATA)
 
 i = 0
 result = {}
@@ -96,4 +97,4 @@ for row in csv_file.values():
             i += 1
     time.sleep(0.5)
 
-save_data(KIV_DATA_FULL, result)
+save_data(OXFORD_DATA_FULL, result)
